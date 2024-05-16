@@ -1,0 +1,16 @@
+{
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true
+      },
+      "enableLiveMetricsFilters": true
+    },
+    "logLevel": {
+      "default": "Warning",
+      "Host": "Information",
+      "Function": "Information"
+    }
+  },
+  "version": "2.0"
+}
